@@ -1,2 +1,2 @@
 # Projetos_Python
- Porjetos desenvolvidos apenas com Python
+ Projetos desenvolvidos apenas com Python
